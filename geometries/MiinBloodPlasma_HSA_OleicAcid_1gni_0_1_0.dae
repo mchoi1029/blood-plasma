@@ -1,0 +1,1297 @@
+<?xml version="1.0"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+    <asset>
+        <contributor>
+            <authoring_tool>CINEMA4D 15.064 COLLADA Exporter</authoring_tool>
+        </contributor>
+        <created>2015-01-23T22:25:41Z</created>
+        <modified>2015-01-23T22:25:41Z</modified>
+        <unit meter="0.01" name="centimeter"/>
+        <up_axis>Y_UP</up_axis>
+    </asset>
+    <library_effects>
+        <effect id="ID2">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.8 0.8 0.8 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID4">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.506325 0.546703 0.77551 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID6">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.902 0.73 0.659 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.29</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID8">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.902 0.73 0.659 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.29</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID10">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.902 0.73 0.659 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.29</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID12">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID14">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID16">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID18">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID20">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID22">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID24">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID26">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID28">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID30">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID32">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID34">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID36">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID38">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID40">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID42">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID44">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID46">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID48">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID50">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID52">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID54">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID56">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID58">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID60">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID62">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID64">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID66">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID68">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID70">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID72">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID74">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID76">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID78">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID80">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID82">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID84">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID86">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID88">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID90">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID92">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID94">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID96">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID98">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID100">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID102">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID104">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID106">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID108">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID110">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID112">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID114">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID116">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID118">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>0.937 0 0.5 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID120">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <blinn>
+                        <diffuse>
+                            <color>1 1 1 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.2 0.2 0.2 1</color>
+                        </specular>
+                        <shininess>
+                            <float>0.5</float>
+                        </shininess>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+    </library_effects>
+    <library_materials>
+        <material id="ID1" name="Mat">
+            <instance_effect url="#ID2"/>
+        </material>
+        <material id="ID3" name="MiinBloodPlasma_HSA-OleicAcid_1gni_0_1_0">
+            <instance_effect url="#ID4"/>
+        </material>
+        <material id="ID5" name="_Blue">
+            <instance_effect url="#ID6"/>
+        </material>
+        <material id="ID7" name="_Green">
+            <instance_effect url="#ID8"/>
+        </material>
+        <material id="ID9" name="_Red">
+            <instance_effect url="#ID10"/>
+        </material>
+        <material id="ID11" name="mat_1gni_A_Helix34">
+            <instance_effect url="#ID12"/>
+        </material>
+        <material id="ID13" name="mat_1gni_A_Coil21">
+            <instance_effect url="#ID14"/>
+        </material>
+        <material id="ID15" name="mat_1gni_A_Helix33">
+            <instance_effect url="#ID16"/>
+        </material>
+        <material id="ID17" name="mat_1gni_A_Coil20">
+            <instance_effect url="#ID18"/>
+        </material>
+        <material id="ID19" name="mat_1gni_A_Helix32">
+            <instance_effect url="#ID20"/>
+        </material>
+        <material id="ID21" name="mat_1gni_A_Helix31">
+            <instance_effect url="#ID22"/>
+        </material>
+        <material id="ID23" name="mat_1gni_A_Coil19">
+            <instance_effect url="#ID24"/>
+        </material>
+        <material id="ID25" name="mat_1gni_A_Helix30">
+            <instance_effect url="#ID26"/>
+        </material>
+        <material id="ID27" name="mat_1gni_A_Coil18">
+            <instance_effect url="#ID28"/>
+        </material>
+        <material id="ID29" name="mat_1gni_A_Helix29">
+            <instance_effect url="#ID30"/>
+        </material>
+        <material id="ID31" name="mat_1gni_A_Coil17">
+            <instance_effect url="#ID32"/>
+        </material>
+        <material id="ID33" name="mat_1gni_A_Helix28">
+            <instance_effect url="#ID34"/>
+        </material>
+        <material id="ID35" name="mat_1gni_A_Coil16">
+            <instance_effect url="#ID36"/>
+        </material>
+        <material id="ID37" name="mat_1gni_A_Helix27">
+            <instance_effect url="#ID38"/>
+        </material>
+        <material id="ID39" name="mat_1gni_A_Coil15">
+            <instance_effect url="#ID40"/>
+        </material>
+        <material id="ID41" name="mat_1gni_A_Helix26">
+            <instance_effect url="#ID42"/>
+        </material>
+        <material id="ID43" name="mat_1gni_A_Coil14">
+            <instance_effect url="#ID44"/>
+        </material>
+        <material id="ID45" name="mat_1gni_A_Helix25">
+            <instance_effect url="#ID46"/>
+        </material>
+        <material id="ID47" name="mat_1gni_A_Coil13">
+            <instance_effect url="#ID48"/>
+        </material>
+        <material id="ID49" name="mat_1gni_A_Helix24">
+            <instance_effect url="#ID50"/>
+        </material>
+        <material id="ID51" name="mat_1gni_A_Coil12">
+            <instance_effect url="#ID52"/>
+        </material>
+        <material id="ID53" name="mat_1gni_A_Helix23">
+            <instance_effect url="#ID54"/>
+        </material>
+        <material id="ID55" name="mat_1gni_A_Coil11">
+            <instance_effect url="#ID56"/>
+        </material>
+        <material id="ID57" name="mat_1gni_A_Helix22">
+            <instance_effect url="#ID58"/>
+        </material>
+        <material id="ID59" name="mat_1gni_A_Helix21">
+            <instance_effect url="#ID60"/>
+        </material>
+        <material id="ID61" name="mat_1gni_A_Coil10">
+            <instance_effect url="#ID62"/>
+        </material>
+        <material id="ID63" name="mat_1gni_A_Helix20">
+            <instance_effect url="#ID64"/>
+        </material>
+        <material id="ID65" name="mat_1gni_A_Coil9">
+            <instance_effect url="#ID66"/>
+        </material>
+        <material id="ID67" name="mat_1gni_A_Helix19">
+            <instance_effect url="#ID68"/>
+        </material>
+        <material id="ID69" name="mat_1gni_A_Helix18">
+            <instance_effect url="#ID70"/>
+        </material>
+        <material id="ID71" name="mat_1gni_A_Helix17">
+            <instance_effect url="#ID72"/>
+        </material>
+        <material id="ID73" name="mat_1gni_A_Helix16">
+            <instance_effect url="#ID74"/>
+        </material>
+        <material id="ID75" name="mat_1gni_A_Helix15">
+            <instance_effect url="#ID76"/>
+        </material>
+        <material id="ID77" name="mat_1gni_A_Helix14">
+            <instance_effect url="#ID78"/>
+        </material>
+        <material id="ID79" name="mat_1gni_A_Helix13">
+            <instance_effect url="#ID80"/>
+        </material>
+        <material id="ID81" name="mat_1gni_A_Coil8">
+            <instance_effect url="#ID82"/>
+        </material>
+        <material id="ID83" name="mat_1gni_A_Helix12">
+            <instance_effect url="#ID84"/>
+        </material>
+        <material id="ID85" name="mat_1gni_A_Helix11">
+            <instance_effect url="#ID86"/>
+        </material>
+        <material id="ID87" name="mat_1gni_A_Coil7">
+            <instance_effect url="#ID88"/>
+        </material>
+        <material id="ID89" name="mat_1gni_A_Helix10">
+            <instance_effect url="#ID90"/>
+        </material>
+        <material id="ID91" name="mat_1gni_A_Coil6">
+            <instance_effect url="#ID92"/>
+        </material>
+        <material id="ID93" name="mat_1gni_A_Helix9">
+            <instance_effect url="#ID94"/>
+        </material>
+        <material id="ID95" name="mat_1gni_A_Helix8">
+            <instance_effect url="#ID96"/>
+        </material>
+        <material id="ID97" name="mat_1gni_A_Coil5">
+            <instance_effect url="#ID98"/>
+        </material>
+        <material id="ID99" name="mat_1gni_A_Helix7">
+            <instance_effect url="#ID100"/>
+        </material>
+        <material id="ID101" name="mat_1gni_A_Helix6">
+            <instance_effect url="#ID102"/>
+        </material>
+        <material id="ID103" name="mat_1gni_A_Helix5">
+            <instance_effect url="#ID104"/>
+        </material>
+        <material id="ID105" name="mat_1gni_A_Coil4">
+            <instance_effect url="#ID106"/>
+        </material>
+        <material id="ID107" name="mat_1gni_A_Helix4">
+            <instance_effect url="#ID108"/>
+        </material>
+        <material id="ID109" name="mat_1gni_A_Coil3">
+            <instance_effect url="#ID110"/>
+        </material>
+        <material id="ID111" name="mat_1gni_A_Helix3">
+            <instance_effect url="#ID112"/>
+        </material>
+        <material id="ID113" name="mat_1gni_A_Coil2">
+            <instance_effect url="#ID114"/>
+        </material>
+        <material id="ID115" name="mat_1gni_A_Helix2">
+            <instance_effect url="#ID116"/>
+        </material>
+        <material id="ID117" name="mat_1gni_A_Helix1">
+            <instance_effect url="#ID118"/>
+        </material>
+        <material id="ID119" name="mat_1gni_A_Coil1">
+            <instance_effect url="#ID120"/>
+        </material>
+    </library_materials>
+    <library_geometries>
+        <geometry id="ID125">
+            <mesh>
+                <source id="ID126">
+                    <float_array id="ID127" count="567">-1.67499 -21.0533 22.1457 -9.34396 24.9792 -13.6574 -30.3181 12.7524 -8.159 42.777 8.23461 23.7855 -41.8488 -9.74467 6.96665 -41.0806 -3.74673 -4.66781 -42.2909 -15.511 15.3263 19.4347 -21.3121 -24.3144 19.2153 -6.51549 -0.239154 -22.7258 5.94059 25.0616 28.6553 23.4584 -2.49534 -5.7625 -4.8617 -42.1352 25.3506 -13.8595 37.1034 42.4498 8.18154 28.4138 -14.4219 23.2898 -1.63144 9.77483 14.0145 1.64785 -46.9922 2.04566 11.7646 31.4089 12.563 26.3655 26.9476 21.0094 4.05113 10.3728 -23.1137 -31.3798 -8.97646 -13.6326 21.7907 12.5262 5.90696 27.8271 -4.02338 -16.2324 -0.565851 28.182 -1.21805 10.1397 14.9776 23.5012 -9.83575 -14.2599 -7.36653 -17.518 -0.232502 19.2899 -13.6436 27.2584 -16.8244 20.0043 34.9815 7.47755 18.7677 -0.656819 -0.84872 -47.7966 14.4048 -7.54866 -34.3128 25.2109 -3.70667 -25.4446 -11.5259 -15.1005 -29.995 19.6627 -9.34639 42.8965 -20.1128 16.6784 9.63287 16.3412 -12.3118 41.5234 -32.2167 22.0291 3.13686 28.4728 17.0472 -19.3522 4.61298 -12.8977 -2.56512 -23.21 21.665 -13.0913 19.0206 7.77764 6.7244 32.4421 6.42817 32.9057 17.492 -16.0259 -16.8493 0.521383 14.1723 -41.5733 -32.9236 -1.45248 -5.94766 -21.8282 -12.5339 -1.4172 3.78246 -0.903863 -46.7947 3.63769 -11.3847 33.0765 22.8506 -4.19321 -15.8762 -4.46968 12.6171 26.5704 10.6733 -4.61748 -3.64531 12.4615 -18.922 17.1109 7.61288 -13.7035 35.9067 -25.5023 -7.41821 -6.17906 3.17343 17.6994 11.4271 27.361 6.01596 0.00684326 15.1498 13.0494 -24.6283 5.20028 -7.2077 -38.1145 -11.041 4.65546 -41.2232 -20.467 -11.3877 -8.02057 -30.7045 -14.2209 5.08623 -34.7135 7.29209 2.65022 25.3048 12.9905 -23.9035 27.3195 10.0958 32.4196 6.3442 -24.6286 28.6974 20.2962 -12.6479 15.9021 -7.28218 -16.863 -17.5583 32.4482 -10.0261 19.6072 -9.90292 7.92579 -28.1831 29.937 -12.9528 32.1376 -0.827248 -1.74405 25.198 4.51545 16.0516 -14.5651 -7.73379 -20.9918 9.60656 -0.440172 -19.0936 30.725 -12.5292 9.67891 23.2339 -8.70804 -7.2733 -31.9515 -15.6202 15.5785 12.4006 -10.4898 -17.4718 3.46852 -28.2933 16.4932 -3.45797 -8.99256 19.8148 13.9841 16.4569 -14.4641 -34.6618 17.9232 -0.180173 1.25357 20.641 -12.3546 -25.8088 -1.83895 -11.4947 -37.0469 -28.8806 -5.57222 21.9856 -46.8125 0.601067 3.7896 3.35125 -18.3148 -13.3631 -18.4755 2.85239 26.5263 -39.2703 3.52329 19.5297 26.9971 0.00635185 -6.06405 15.7705 -17.7041 -8.58413 -2.25914 9.57974 -47.3896 13.0248 -13.7329 7.14819 -14.2385 -2.81881 22.7315 -4.27173 -23.5344 16.0985 29.0007 10.7634 -20.7259 22.6078 -6.69382 13.962 5.32757 13.156 6.62778 -3.77299 16.9779 -23.7193 32.082 5.99434 -6.86934 3.74602 9.96968 -44.9671 -31.3271 17.2812 10.5849 33.2719 9.28524 -3.50008 32.7214 4.75368 10.2954 13.2418 6.46179 8.18811 9.83695 11.4933 4.93453 -5.73461 14.0592 4.09877 -21.6827 21.9206 -3.76813 -13.9963 4.70667 -24.1254 -10.0324 -6.18011 22.7163 33.4693 -3.31513 38.7511 30.2534 15.9754 -3.25874 6.12319 -10.4339 -1.45443 -7.51729 4.83006 27.775 25.8549 -20.6878 26.0208 -7.47691 -16.0343 -35.0907 -35.551 13.2365 10.5976 -7.57919 -21.8078 -30.0076 21.2773 17.6634 6.2546 4.97172 -22.8046 20.3344 -8.58779 23.5212 -19.0236 -1.11624 -11.2046 -7.07707 22.9039 -9.83206 -7.6693 13.5025 21.9152 -2.8947 9.04517 14.8472 -18.8198 24.701 22.9956 -10.1311 9.38415 15.5874 -27.4186 -25.346 8.35263 16.7012 43.3986 -2.31055 22.3523 -11.0686 -17.1014 -3.71432 8.57607 1.8255 38.8068 -44.616 -5.11644 20.8754 16.2461 -12.5204 -5.42989 41.7931 -2.61737 29.272 -16.2009 6.03136 -36.3873 10.7904 -26.2523 -28.3266 -31.3226 -12.2054 18.9156 24.0788 3.49913 -21.6779 -10.0545 9.7596 -38.7273 6.21519 -24.4502 6.06854 6.88816 -17.175 -8.4083 23.8115 0.78851 -12.2675 4.61988 3.25542 28.8366 8.93756 -4.30177 3.68787 17.7143 5.85293 35.1015 -30.6672 -14.872 15.321 -9.88074 11.3276 -24.0025 22.5829 11.1558 13.0269 -18.9641 -10.672 11.179 27.2322 9.21611 19.3714 -26.4215 23.0121 7.67409 -46.8509 -10.033 16.4933 -0.7424 -20.467 -35.8811 2.17454 -19.8893 -0.21947 -9.75034 -12.8361 -17.7595 -8.65226 -12.3554 -11.6355 29.2305 -5.23122 39.459 19.4986 5.45664 -26.6679 22.8659 25.566 -3.27797 -21.3427 14.1577 -22.2495 -14.6674 19.6342 -18.7687 5.9074 16.1387 23.6947 -33.3231 2.6889 -4.73344 14.0258 10.5044 16.0976 -8.06371 19.5103 1.71743 17.0184 -2.01747 38.9637 4.62105 14.7028 -5.83331 -9.73496 0.641177 -28.8393 -35.5203 12.9081 6.29715 13.3234 7.84497 -36.9318 -5.45029 9.43466 1.36935 9.06174 3.04093 -41.2988 -36.8674 10.1695 15.9432 -24.463 1.19298 -15.5008 9.11974 -20.5949 2.49807 5.21766 11.6187 29.9486 -12.1973 -18.2005 14.3235 -1.56392 13.9849 -5.60711 -1.04824 -12.415 -11.4519 5.17217 -2.29107 37.8983 16.0017 9.4319 22.7943 -38.2181 -10.0707 -2.88853 -1.65263 8.4741 -0.343527 1.73029 17.1639 18.3329 35.9075 -4.14664 16.2693 17.7397 2.73121 4.7975 -8.59386 16.4459 4.68087 6.9001 -25.4209 -19.6101 -37.0969 -3.61674 23.3746</float_array>
+                    <technique_common>
+                        <accessor count="189" source="#ID127" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID128">
+                    <float_array id="ID129" count="567">-0.425214 0.430885 0.795947 -0.0959219 0.748366 0.656313 -0.257183 0.510252 0.82067 -0.357294 -0.434293 -0.82688 -0.381871 0.246038 -0.890864 -0.454535 0.0947034 -0.88568 0.679493 0.578388 -0.451394 0.209068 0.801454 -0.560323 0.39552 0.298856 -0.868475 0.335218 -0.00496065 0.942128 0.333055 -0.693675 0.638663 0.0834003 -0.0975756 0.991727 0.371283 -0.458549 -0.807392 -0.0638744 -0.380182 -0.922703 -0.115216 -0.398242 -0.910016 0.569257 0.276749 -0.774181 0.309915 -0.523543 -0.793634 0.646937 -0.204131 -0.734713 0.512284 -0.0814304 0.854947 0.700899 -0.650851 0.291778 -0.304238 -0.95194 -0.0353554 -0.473662 -0.744458 -0.47056 -0.039028 -0.947823 -0.3164 0.232875 0.942774 0.238636 0.228624 0.967555 0.107561 0.0460857 0.796457 0.602937 0.634284 -0.347804 0.690446 0.857029 -0.515073 -0.0142054 0.881564 -0.460667 0.103103 0.749139 0.443674 0.491879 0.673598 0.549376 -0.494419 0.891503 -0.409558 -0.193611 0.670632 0.564862 -0.480814 0.627407 0.307779 -0.715285 -0.328367 0.70291 0.630946 -0.207542 -0.0800854 0.974942 -0.311391 0.697835 0.645029 -0.20715 -0.274621 0.938974 -0.551124 0.228434 -0.802546 -0.636333 -0.404188 -0.657048 -0.643849 -0.0578292 -0.762964 -0.497903 0.761099 0.415717 -0.0469983 0.386125 0.921248 -0.452548 0.809848 0.373292 -0.638552 0.761229 -0.113057 -0.809872 0.58555 0.0351935 -0.945282 0.13454 -0.297221 0.480885 0.749324 -0.455262 0.115197 0.992535 0.0400535 0.963826 -0.264426 0.0334587 0.903631 -0.101974 -0.415996 0.960403 -0.224217 -0.16539 0.733895 -0.312157 -0.603287 0.413739 -0.490535 -0.766939 0.663937 -0.588359 -0.461542 0.252299 -0.596182 0.762176 0.186587 -0.609092 0.770839 -0.180477 -0.168997 0.968952 0.81458 -0.579305 -0.029411 0.522686 -0.672364 -0.524143 0.155036 0.987227 -0.036707 -0.41962 0.883317 -0.208976 -0.364482 0.849858 0.38065 0.548686 0.709478 0.44225 0.674616 0.685843 -0.272972 0.795736 -0.208119 0.568763 -0.502903 -0.0479394 0.863012 -0.661298 0.0462134 0.748698 -0.61869 -0.158048 0.769574 -0.0468034 -0.980544 -0.190638 -0.289721 -0.935262 -0.203342 -0.447393 -0.726088 -0.522146 -0.499701 -0.799652 0.33295 -0.717286 -0.629914 0.297843 -0.75681 -0.413876 0.505911 0.0896826 0.621531 0.778239 0.743518 0.668714 0.00165482 0.39063 0.818389 -0.421482 0.935767 0.283771 0.209317 0.0845295 0.901655 -0.424115 0.478631 0.349384 -0.805508 0.969945 0.0491733 -0.238304 0.254012 0.479165 0.840166 0.0036416 0.396377 0.918081 0.254674 0.926452 0.277179 -0.0912847 0.946408 0.309805 -0.723482 -0.519998 -0.454066 -0.939831 -0.257269 -0.224791 0.981191 -0.0121842 0.192654 -0.575361 -0.678157 0.457234 0.0167773 -0.873044 0.487352 -0.557089 -0.805829 -0.200729 -0.629136 -0.386377 0.674463 0.493406 -0.636424 -0.592887 0.468934 -0.54355 -0.696171 -0.908835 -0.159742 -0.385358 -0.962885 -0.224795 -0.1494 -0.583339 -0.178519 -0.792368 -0.119754 0.992767 0.00852762 0.387755 0.867543 -0.311473 0.460389 0.510195 0.726459 0.0874413 0.694258 0.714395 -0.326671 0.876851 0.352729 -0.0608119 -0.082549 0.99473 -0.237113 0.610657 0.755563 -0.85168 0.0658558 -0.519908 -0.741794 -0.59212 -0.314859 0.233156 -0.924544 0.301426 -0.0774422 -0.965885 0.247123 -0.31004 -0.789786 0.529257 0.496062 -0.867426 0.0386604 0.138777 0.376237 0.916071 -0.38862 -0.914897 -0.10926 0.00224103 -0.833279 -0.552848 -0.286812 0.664816 0.689752 0.328212 0.92354 -0.198372 -0.196448 0.966953 0.16251 -0.0939416 -0.988487 -0.11861 0.657765 -0.719666 0.22232 0.0770314 0.995002 0.0635426 0.868954 -0.418954 -0.263431 0.663936 -0.12751 -0.736838 0.111118 -0.987655 -0.110409 -0.321905 -0.930837 0.172973 -0.55187 0.454999 -0.698867 0.0989546 0.813331 -0.573325 -0.267893 0.678137 -0.684371 0.0269947 0.96586 -0.257655 0.333643 0.933732 -0.129721 -0.327478 -0.862283 0.386299 -0.934148 -0.348792 0.0755775 -0.324723 -0.805206 0.496184 0.776921 -0.608149 -0.162939 -0.369849 -0.466183 0.80367 -0.0272014 0.991808 -0.124808 0.528134 -0.275723 -0.803151 -0.785284 0.387193 -0.483126 -0.358901 0.918121 -0.168061 -0.832581 0.4488 -0.324634 0.294907 0.936011 0.192127 -0.898747 0.150041 -0.411997 -0.922337 0.333349 0.195376 0.355608 -0.857263 0.372349 -0.184014 -0.898949 0.397528 0.330233 -0.62952 0.703314 0.857414 -0.325094 -0.398942 -0.0240776 0.826352 0.562639 -0.0613407 0.865076 0.497876 0.290814 -0.624525 0.724842 0.0410844 -0.473856 0.879643 0.619195 -0.0938074 -0.779614 -0.102069 -0.564741 0.818932 -0.138061 0.928605 -0.344429 -0.681077 0.667113 -0.301817 -0.399941 -0.864283 -0.305062 -0.600528 -0.00467406 0.79959 0.547065 0.69463 0.467128 0.837926 -0.227869 -0.495939 0.198379 -0.828025 0.524424 -0.400911 0.558534 0.726161 -0.261032 0.479101 -0.838048 -0.796736 -0.151922 -0.58492 -0.1414 0.743866 0.6532 0.75881 0.636286 0.139093 -0.71969 0.0975887 0.687402 0.80495 -0.591061 0.0519872 0.544415 -0.271053 -0.793815 0.296596 0.926463 -0.231728 0.343794 0.844081 0.411501 -0.542552 0.776755 -0.319827 -0.431492 0.667442 0.606906 0.347873 0.882191 0.31737 0.572236 0.790888 0.21689 -0.983062 0.16845 -0.0722103 -0.940366 0.33188 -0.0746194 0.585451 -0.735272 -0.341498 0.010001 0.991853 0.126992 -0.13788 -0.903971 0.404753 -0.905836 -0.415728 0.0814278 0.266611 -0.454999 -0.849644 -0.0828402 -0.54049 -0.837262 0.224401 -0.886101 -0.405548 -0.623867 -0.539808 -0.565152 0.106378 -0.657518 -0.745892 0.150812 0.97772 -0.146013 -0.896872 0.359123 -0.258169 -0.120203 -0.397985 0.909483 0.16387 -0.962979 -0.21405 0.675839 -0.476065 -0.562676</float_array>
+                    <technique_common>
+                        <accessor count="189" source="#ID129" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID130">
+                    <float_array id="ID131" count="410">0.775283 0.535336 0.824384 0.547039 0.784616 0.514611 0.462167 0.412301 0.471555 0.48619 0.481993 0.471233 0.095008 0.646351 0.16223 0.634943 0.120469 0.613694 0.851473 0.466218 0.845396 0.404773 0.818404 0.437759 0.228418 0.441042 0.252187 0.494349 0.257894 0.404345 0.951484 0.543832 0.945033 0.487062 0.932292 0.46664 0.863381 0.47942 0.86936 0.408714 0.351764 0.275365 0.440558 0.347856 0.448471 0.190675 0.482072 0.822607 0.579378 0.829143 0.544989 0.721716 0.99996 0.568892 1.03517 0.500073 1.05142 0.376948 0.906121 0.550553 0.919235 0.553056 0.924304 0.484945 0.194897 0.562776 0.14952 0.552106 0.723475 0.639404 0.707933 0.552938 0.671288 0.611869 0.809672 0.414309 0.37169 0.637027 0.410111 0.513105 0.333667 0.553213 1.03361 0.821022 0.954497 0.714087 0.973419 0.804041 0.515448 0.690209 0.546109 0.609094 0.527925 0.609379 0.921629 0.559263 0.888858 0.594626 0.0966414 0.452388 0.125734 0.467177 0.142635 0.386123 0.920115 0.262513 0.911949 0.421447 0.957964 0.546964 0.603557 0.451512 0.586466 0.397518 0.589486 0.473803 1.03357 0.557522 0.913492 0.417705 0.202155 0.75816 0.0924802 0.792647 0.143373 0.850853 0.533398 0.872735 0.598764 0.852069 0.902757 0.483686 0.744777 0.478015 0.767433 0.39507 0.683811 0.422361 0.526127 0.363573 0.489681 0.334373 0.487994 0.418211 0.737985 0.258501 0.637732 0.255269 0.687809 0.333069 0.926 0.756905 0.0138246 0.717773 0.0619469 0.726329 0.0170775 0.65389 0.248004 0.604571 0.236772 0.569217 0.116656 0.534245 0.873871 0.543998 0.81554 0.484908 0.788887 0.685888 0.764977 0.738817 0.358739 0.399653 0.301813 0.506704 1.01708 0.65389 1.01668 0.586175 0.312572 0.269016 0.196152 0.218197 0.289375 0.304616 0.74772 0.323024 0.899239 0.353029 0.894226 0.354836 0.292347 0.431184 0.308388 0.360165 0.283412 0.366221 0.467382 0.937415 0.857759 0.817349 0.976251 0.709063 0.571088 0.704403 0.606793 0.711076 0.653174 0.528014 0.632773 0.55533 0.477543 0.525376 0.526254 0.428133 0.0807693 0.123645 0.140765 0.179602 0.210893 0.205287 0.874491 0.336544 0.777453 0.616204 0.550825 0.179485 0.477762 0.0780691 0.551859 0.653289 0.793113 0.812087 0.659046 0.777784 0.274898 0.18109 0.122022 0.31434 0.901595 0.585652 0.0757143 0.509368 0.051425 0.376948 0.0351655 0.500073 0.215623 0.522854 0.788164 0.23639 0.70872 0.196042 0.312152 0.630981 0.317488 0.768972 0.355575 0.719432 0.178695 0.696749 0.197517 0.65708 0.555335 0.394303 0.553872 0.436556 0.264528 0.237825 0.937716 0.366747 0.783251 0.386263 0.345497 0.81376 0.237163 0.493872 0.512127 0.565722 0.472615 0.749369 0.480644 0.666972 0.911859 0.625226 0.512856 0.504074 0.539042 0.513434 0.573739 0.369709 0.584774 0.356314 0.0523803 0.37631 0.037116 0.172765 0.861445 0.574414 0.817318 0.560862 0.988887 0.496808 1.00198 0.395948 1.05238 0.37631 0.186741 0.436297 0.660939 0.466671 0.275106 0.695868 0.290428 0.576156 0.642123 0.16908 0.569651 0.467055 0.293291 0.874449 0.0987562 0.593345 0.0793338 0.252242 0.57345 0.525516 0.257581 0.56342 0.29165 0.534587 1.03712 0.172765 0.592728 0.585476 0.539176 0.829001 0.771587 0.480957 0.142679 0.308896 0.179451 0.385252 0.864071 0.645537 0.847414 0.603941 0.418265 0.717288 0.564961 0.578931 0.945916 0.617127 1.14337 0.850853 1.46738 0.937415 0.252712 0.804026 0.316668 0.547836 0.303779 0.582553 0.850181 0.267812 0.0226614 0.766118 0.784628 0.277987 0.00198074 0.395948 0.32991 0.320239 0.19919 0.305737 0.253293 0.335024 0.192074 0.272808 0.0166812 0.586175 0.271632 0.463768 1.01601 0.0348384 1.47776 0.0780691 0.916726 0.628701 1.01382 0.717773 0.458161 0.622808 0.0513363 0.299088 0.8769 0.10866 0.957448 0.137007 1.09248 0.792647 0.0336113 0.821022 1.02266 0.766118 0.0335711 0.557522 0.0160089 0.0348384</float_array>
+                    <technique_common>
+                        <accessor count="205" source="#ID131" stride="2">
+                            <param name="S" type="float"/>
+                            <param name="T" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="ID132">
+                    <input semantic="POSITION" source="#ID126"/>
+                </vertices>
+                <triangles count="374" material="Material1">
+                    <input offset="0" semantic="VERTEX" source="#ID132"/>
+                    <input offset="1" semantic="NORMAL" source="#ID128"/>
+                    <input offset="2" semantic="TEXCOORD" source="#ID130" set="0"/>
+                    <p>130 2 2 144 1 1 142 0 0 5 5 5 44 4 4 53 3 3 62 8 8 56 7 7 37 6 6 33 11 11 12 10 10 156 9 9 83 14 14 29 13 13 57 12 12 184 17 17 23 16 16 103 15 15 69 19 19 110 18 18 156 9 9 69 19 19 156 9 9 12 10 10 129 22 22 59 21 21 155 20 20 150 25 25 186 24 24 14 23 23 122 28 28 89 27 27 55 26 26 128 31 31 3 30 30 13 29 29 157 33 33 169 32 32 56 7 7 74 36 36 113 35 35 49 34 34 35 37 37 12 10 10 33 11 11 108 40 40 173 39 39 159 38 38 15 43 43 118 42 42 123 41 41 168 46 46 116 45 45 36 44 44 17 48 48 3 30 30 28 47 47 82 51 51 31 50 50 48 49 49 185 54 54 96 53 53 92 52 52 188 57 57 136 56 56 84 55 55 89 27 27 99 58 58 55 26 26 67 59 59 23 16 16 184 17 17 166 62 62 24 61 61 71 60 60 186 24 24 106 64 64 164 63 63 133 65 65 128 31 31 13 29 29 109 68 68 47 67 67 70 66 66 181 71 71 45 70 70 60 69 69 20 74 74 176 73 73 0 72 72 105 75 75 118 42 42 15 43 43 36 44 44 150 25 25 14 23 23 111 78 78 125 77 77 10 76 76 3 30 30 17 48 48 13 29 29 100 80 80 43 79 79 169 32 32 31 50 50 137 81 81 48 49 49 165 83 83 41 82 82 144 1 1 183 85 85 49 34 34 161 84 84 167 87 87 25 86 86 108 40 40 55 26 26 102 88 89 111 78 88 117 91 92 187 90 91 66 89 90 109 68 68 20 74 74 73 92 93 65 94 95 96 53 53 27 93 94 115 97 98 32 96 97 75 95 96 106 64 64 97 99 100 182 98 99 55 26 26 111 78 88 18 100 101 76 102 103 186 24 24 34 101 102 9 104 105 87 103 104 74 36 36 173 39 39 162 105 106 159 38 38 60 69 69 4 106 107 181 71 71 23 16 16 96 53 53 185 54 54 86 109 110 140 108 109 38 107 108 27 93 94 69 19 19 114 110 111 49 34 34 175 111 112 161 84 84 129 22 22 22 113 114 77 112 113 150 25 25 36 44 44 101 114 115 41 82 82 13 29 29 17 48 48 176 73 73 20 74 74 109 68 68 79 116 117 183 85 85 54 115 116 121 117 118 86 109 110 38 107 108 45 70 70 181 71 71 53 3 3 187 90 91 42 118 119 86 109 110 28 47 47 149 119 120 17 48 48 89 27 123 122 28 122 141 120 121 165 83 83 156 9 9 41 82 82 32 96 97 117 91 92 66 89 90 99 58 58 102 88 89 55 26 26 121 117 118 38 107 108 22 113 114 9 104 105 188 57 57 87 103 104 100 80 80 169 32 32 171 121 124 0 72 72 94 123 126 119 122 125 160 126 129 120 125 128 146 124 127 126 128 131 124 127 130 56 7 7 151 130 133 4 106 107 6 129 132 43 79 79 126 128 131 169 32 32 178 131 134 86 109 110 121 117 118 92 52 52 143 132 135 185 54 54 173 39 39 108 40 40 25 86 86 35 37 37 52 133 136 12 10 10 160 126 129 1 134 137 120 125 128 46 135 138 29 13 13 100 80 80 61 136 139 116 45 45 168 46 46 87 103 104 113 35 35 74 36 36 41 82 82 133 65 65 13 29 29 109 68 68 73 92 93 47 67 67 78 138 141 36 44 44 107 137 140 105 75 75 97 99 100 104 139 142 4 106 107 16 141 144 85 140 143 148 143 146 145 142 145 60 69 69 112 145 148 38 107 108 50 144 147 136 56 56 145 142 145 84 55 55 21 147 150 144 1 1 63 146 149 50 144 153 8 149 152 81 148 151 171 121 124 31 50 50 30 150 154 93 151 155 113 35 35 87 103 104 6 129 132 136 56 56 188 57 57 155 20 20 178 131 134 121 117 118 43 79 79 138 153 157 98 152 156 113 35 35 175 111 112 49 34 34 94 123 126 176 73 73 72 154 158 131 155 159 6 129 132 188 57 57 177 156 160 14 23 23 164 63 63 107 137 140 14 23 23 1 134 137 184 17 17 28 47 47 3 30 30 53 3 3 173 39 39 59 21 21 186 24 24 79 116 117 54 115 116 29 13 13 46 135 138 57 12 12 95 157 161 62 8 8 37 6 6 140 108 109 90 158 162 38 107 108 131 155 159 188 57 57 88 159 163 78 138 141 168 46 46 36 44 44 58 161 165 138 153 157 91 160 164 143 132 135 92 52 52 112 145 166 127 162 167 9 104 105 74 36 36 182 98 99 170 163 168 106 64 64 182 98 99 166 62 62 177 156 160 119 122 125 27 93 94 114 110 111 52 133 136 35 37 37 179 164 169 7 165 170 82 51 51 42 118 119 30 150 154 82 51 51 80 166 171 75 95 96 83 14 14 115 97 98 180 168 173 163 167 172 161 84 84 69 19 19 133 65 65 110 18 18 39 169 174 78 138 141 107 137 140 56 7 7 169 32 32 126 128 131 74 36 36 183 85 85 79 116 117 172 170 175 127 162 167 101 114 115 185 54 54 143 132 135 81 148 151 63 146 149 41 82 82 17 48 48 77 112 113 176 73 73 148 143 146 150 25 25 34 101 102 186 24 24 40 171 176 185 54 54 55 26 26 142 0 0 70 66 66 179 164 169 44 4 4 5 5 5 61 136 139 179 164 169 35 37 37 130 2 2 101 114 115 127 162 167 34 101 102 77 112 113 45 70 70 129 22 22 9 104 105 127 162 167 88 159 163 24 61 61 124 127 130 71 60 60 182 98 178 15 43 43 166 62 177 26 172 179 14 23 23 177 156 160 124 127 130 24 61 61 56 7 7 68 174 181 138 153 157 134 173 180 74 36 36 49 34 34 183 85 85 97 99 100 105 75 75 15 43 43 128 31 31 184 17 17 3 30 30 167 87 87 134 173 180 58 161 165 138 153 157 43 79 79 91 160 164 92 52 52 65 94 95 51 175 182 181 71 71 85 140 143 5 5 5 27 93 94 119 122 125 51 175 182 125 77 77 158 176 183 10 76 76 52 133 136 64 177 184 12 10 10 86 109 110 42 118 119 140 108 109 90 158 162 122 28 122 8 149 185 91 160 164 43 79 79 100 80 80 125 77 77 37 6 6 56 7 7 73 92 93 52 133 136 47 67 67 90 158 162 42 118 119 122 28 122 66 89 90 154 178 186 32 96 97 83 14 14 80 166 171 19 179 187 55 26 26 185 54 54 81 148 151 151 130 133 131 155 159 16 141 144 135 181 189 117 91 92 152 180 188 182 98 99 177 156 160 170 163 168 133 65 65 41 82 82 110 18 18 24 61 61 158 176 183 125 77 77 101 114 115 116 45 45 172 170 175 157 33 33 137 81 81 169 32 32 102 88 190 37 6 6 111 78 78 127 162 167 74 36 36 76 102 103 16 141 144 116 45 45 85 140 143 36 44 44 14 23 23 107 137 140 11 182 191 29 13 13 83 14 14 22 113 114 129 22 22 121 117 118 39 169 174 1 134 137 160 126 129 170 163 168 177 156 160 106 64 64 116 45 45 16 141 144 172 170 175 22 113 193 153 183 192 72 154 158 65 94 95 92 52 52 96 53 53 16 141 144 131 155 159 88 159 163 137 81 81 157 33 33 95 157 161 181 71 71 4 106 107 85 140 143 149 119 120 21 147 150 17 48 48 97 99 100 106 64 64 186 24 24 31 50 50 82 51 51 30 150 154 147 184 194 149 119 120 28 47 47 171 121 124 30 150 154 57 12 12 169 32 32 31 50 50 171 121 124 69 19 19 27 93 94 67 59 59 111 78 88 10 76 195 18 100 101 2 185 196 159 38 38 162 105 106 38 107 108 90 158 162 132 186 197 52 133 136 179 164 169 47 67 67 142 0 0 21 147 150 175 111 112 50 144 153 143 132 135 112 145 166 18 100 101 118 42 42 55 26 26 28 47 47 184 17 17 103 15 15 52 133 136 73 92 93 64 177 184 175 111 112 180 168 173 161 84 84 117 91 92 115 97 98 152 180 188 162 105 106 78 138 141 2 185 196 57 12 12 46 135 138 171 121 124 181 71 71 5 5 5 53 3 3 55 26 26 81 148 151 8 149 152 142 0 0 179 164 169 130 2 2 14 23 23 26 172 179 1 134 137 7 165 170 135 181 189 80 166 171 138 153 157 58 161 165 134 173 180 147 184 194 28 47 47 103 15 15 29 13 13 11 182 191 58 161 165 113 35 35 93 151 155 70 66 66 95 157 161 37 6 6 102 88 190 61 136 139 168 46 46 78 138 141 143 132 135 50 144 153 81 148 151 119 122 125 139 187 198 51 175 182 61 136 139 5 5 5 85 140 143 92 52 52 51 175 182 174 188 199 41 82 82 156 9 9 110 18 18 48 49 49 137 81 81 141 120 121 130 2 2 35 37 37 165 83 83 182 98 178 97 99 100 15 43 43 43 79 79 98 152 156 126 128 131 42 118 119 48 49 49 122 28 122 144 1 1 41 82 82 63 146 149 8 149 152 122 28 28 55 26 26 4 106 107 151 130 133 16 141 144 142 0 0 144 1 1 21 147 150 117 91 92 135 181 189 187 90 91 23 16 16 185 54 54 103 15 15 24 61 200 15 43 43 123 41 41 63 146 149 17 48 48 21 147 150 12 10 10 114 110 111 69 19 19 86 109 110 66 89 90 187 90 91 148 143 146 45 70 70 77 112 113 116 45 45 101 114 115 36 44 44 117 91 92 32 96 97 115 97 98 153 183 192 174 188 199 139 187 198 148 143 146 84 55 55 145 142 145 173 39 39 53 3 3 162 105 106 83 14 14 57 12 12 80 166 171 19 179 187 80 166 171 135 181 189 174 188 199 51 175 182 139 187 198 174 188 199 112 145 166 92 52 52 75 95 96 58 161 165 11 182 191 66 89 90 86 109 110 178 131 134 98 152 156 120 125 128 71 60 60 72 154 158 153 183 192 139 187 198 124 127 130 126 128 131 71 60 60 57 12 12 30 150 154 80 166 171 98 152 156 146 124 127 120 125 128 175 111 112 21 147 150 180 168 173 6 129 132 60 69 69 145 142 145 173 39 39 25 86 86 59 21 21 54 115 116 97 99 100 186 24 24 188 57 57 84 55 55 87 103 104 75 95 96 167 87 87 58 161 165 119 122 125 64 177 184 0 72 72 104 139 142 40 171 176 105 75 75 165 83 83 33 11 11 156 9 9 47 67 67 179 164 169 70 66 66 56 7 7 62 8 8 157 33 33 67 59 59 128 31 31 69 19 19 40 171 176 163 167 172 147 184 194 123 41 41 118 42 42 18 100 101 157 33 33 62 8 8 95 157 161 147 184 194 103 15 15 40 171 176 24 61 61 123 41 201 158 176 183 120 125 128 26 172 179 71 60 60 158 176 202 18 100 101 10 76 195 44 4 4 61 136 139 162 105 106 95 157 161 99 58 203 141 120 121 128 31 31 133 65 65 69 19 19 113 35 35 70 66 66 142 0 0 109 68 68 70 66 66 93 151 155 100 80 80 171 121 124 46 135 138 88 159 163 127 162 167 172 170 175 25 86 86 155 20 20 59 21 21 87 103 104 84 55 55 93 151 155 138 153 157 146 124 127 98 152 156 166 62 62 71 60 60 177 156 160 153 183 192 112 145 166 174 188 199 105 75 75 40 171 176 118 42 42 118 42 42 40 171 176 55 26 26 76 102 103 79 116 117 186 24 24 19 179 187 135 181 189 152 180 188 77 112 113 72 154 158 176 73 73 22 113 114 72 154 158 77 112 113 101 114 115 34 101 102 150 25 25 7 165 170 42 118 119 187 90 91 60 69 69 6 129 132 4 106 107 159 38 38 39 169 174 160 126 129 109 68 68 148 143 146 176 73 73 73 92 93 20 74 74 0 72 72 177 156 160 164 63 63 106 64 64 14 23 23 186 24 24 164 63 63 132 186 197 50 144 147 38 107 108 40 171 176 104 139 142 163 167 172 82 51 51 48 49 49 42 118 119 88 159 163 188 57 57 9 104 105 149 119 120 147 184 194 180 168 173 147 184 194 163 167 172 180 168 173 35 37 37 33 11 11 165 83 83 7 165 170 80 166 171 82 51 51 6 129 132 131 155 159 151 130 133 108 40 40 159 38 38 146 124 127 64 177 184 114 110 111 12 10 10 184 17 17 128 31 31 67 59 59 120 125 128 1 134 137 26 172 179 18 100 101 158 176 202 123 41 41 127 162 167 76 102 103 34 101 102 176 73 73 94 123 126 0 72 72 152 180 188 83 14 14 19 179 187 141 120 121 99 58 203 89 27 123 79 116 117 76 102 103 74 36 36 122 28 122 48 49 49 141 120 121 58 161 165 91 160 164 29 13 13 39 169 174 107 137 140 1 134 137 185 54 54 40 171 176 103 15 15 148 143 146 109 68 68 93 151 155 15 43 43 24 61 200 166 62 177 54 115 116 163 167 172 97 99 100 88 159 163 172 170 175 16 141 144 129 22 22 45 70 70 59 21 21 145 142 145 136 56 56 6 129 132 159 38 38 160 126 129 146 124 127 66 89 90 155 20 20 154 178 186 96 53 53 23 16 16 67 59 59 162 105 106 61 136 139 78 138 141 61 136 139 85 140 143 116 45 45 37 6 6 125 77 77 111 78 78 137 81 81 31 50 50 169 32 32 75 95 96 25 86 86 167 87 87 154 178 186 25 86 86 75 95 96 42 118 119 90 158 162 140 108 109 45 70 70 53 3 3 59 21 21 27 93 94 96 53 53 67 59 59 26 172 179 177 156 160 71 60 60 163 167 172 104 139 142 97 99 100 90 158 162 8 149 185 132 186 197 66 89 90 178 131 134 155 20 20 94 123 126 139 187 198 119 122 125 93 151 155 84 55 55 148 143 146 154 178 186 75 95 96 32 96 97 7 165 170 187 90 91 135 181 189 95 157 161 102 88 190 99 58 203 153 183 204 38 107 108 112 145 148 108 40 40 146 124 127 68 174 181 95 157 161 141 120 121 137 81 81 159 38 38 2 185 196 39 169 174 64 177 184 119 122 125 114 110 111 180 168 173 21 147 150 149 119 120 51 175 182 65 94 95 27 93 94 83 14 14 75 95 96 11 182 191 161 84 84 163 167 172 54 115 116 126 128 131 98 152 156 71 60 60 2 185 196 78 138 141 39 169 174 22 113 114 38 107 108 153 183 204 53 3 3 44 4 4 162 105 106 25 86 86 154 178 186 155 20 20 132 186 197 8 149 185 50 144 147 130 2 2 165 83 83 144 1 1 113 35 35 142 0 0 175 111 112 68 174 181 134 173 180 167 87 87 72 154 158 139 187 198 94 123 126 29 13 13 91 160 164 100 80 80 60 69 69 45 70 70 148 143 146 115 97 98 83 14 14 152 180 188 68 174 181 167 87 87 108 40 40 54 115 116 183 85 85 161 84 84 129 22 22 155 20 20 121 117 118 73 92 93 0 72 72 64 177 184 125 77 77 56 7 7 24 61 61 138 153 157 68 174 181 146 124 127</p>
+                </triangles>
+            </mesh>
+        </geometry>
+    </library_geometries>
+    <library_visual_scenes>
+        <visual_scene id="ID121">
+            <node id="ID122" name="MiinBloodPlasma_HSA-OleicAcid_1gni_0_1_0">
+                <translate sid="translate">0 0 -0</translate>
+                <rotate sid="rotateY">0 1 0 90</rotate>
+                <rotate sid="rotateX">1 0 0 0</rotate>
+                <rotate sid="rotateZ">0 0 1 -2.56132e-006</rotate>
+                <scale sid="scale">1 1 1</scale>
+                <node id="ID123" name="CoarseMS_1gni">
+                    <translate sid="translate">0 0 -0</translate>
+                    <rotate sid="rotateY">0 1 0 270</rotate>
+                    <rotate sid="rotateX">1 0 0 0</rotate>
+                    <rotate sid="rotateZ">0 0 1 -2.56132e-006</rotate>
+                    <scale sid="scale">1 1 1</scale>
+                    <node id="ID124" name="CoarseMS_1gni">
+                        <translate sid="translate">0 0 -0</translate>
+                        <rotate sid="rotateY">0 1 0 2.50448e-006</rotate>
+                        <rotate sid="rotateX">1 0 0 -1.01778e-013</rotate>
+                        <rotate sid="rotateZ">0 0 1 -360</rotate>
+                        <scale sid="scale">1 1 1</scale>
+                        <instance_geometry url="#ID125">
+                            <bind_material>
+                                <technique_common>
+                                    <instance_material symbol="Material1" target="#ID3">
+                                        <bind_vertex_input semantic="UVSET0" input_semantic="TEXCOORD" input_set="0"/>
+                                    </instance_material>
+                                </technique_common>
+                            </bind_material>
+                        </instance_geometry>
+                    </node>
+                </node>
+            </node>
+        </visual_scene>
+    </library_visual_scenes>
+    <scene>
+        <instance_visual_scene url="#ID121"/>
+    </scene>
+</COLLADA>
