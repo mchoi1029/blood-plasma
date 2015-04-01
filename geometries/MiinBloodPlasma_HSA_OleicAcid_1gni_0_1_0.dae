@@ -1035,7 +1035,7 @@
         <material id="ID1" name="Mat">
             <instance_effect url="#ID2"/>
         </material>
-        <material id="ID3" name="MiinBloodPlasma_HSA-OleicAcid_1gni_0_1_0">
+        <material id="ID3" name="MiinBloodPlasma_HSA_OleicAcid_1gni_0_1_0">
             <instance_effect url="#ID4"/>
         </material>
         <material id="ID5" name="_Blue">
@@ -1259,7 +1259,7 @@
     </library_geometries>
     <library_visual_scenes>
         <visual_scene id="ID121">
-            <node id="ID122" name="MiinBloodPlasma_HSA-OleicAcid_1gni_0_1_0">
+            <node id="ID122" name="MiinBloodPlasma_HSA_OleicAcid_1gni_0_1_0">
                 <translate sid="translate">0 0 -0</translate>
                 <rotate sid="rotateY">0 1 0 90</rotate>
                 <rotate sid="rotateX">1 0 0 0</rotate>

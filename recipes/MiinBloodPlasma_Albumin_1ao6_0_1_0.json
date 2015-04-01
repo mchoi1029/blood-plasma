@@ -5,9 +5,9 @@
  "useOrientBias":false,
  "rotRange":6.2831,
  "gradient":"",
- "meshFile":"D:\\DevApprentice\\autoPACK_data_google\\autoPACK_database_1.0.0\\geometries\\MiinBloodPlasma_Albumin_1ao6_0_1_0.dae",
+ "meshFile":"D:\\LabMembers\\Interns\\URAP\\Miin\\miin_database_1.0.0\\geometries\\MiinBloodPlasma_Albumin_1ao6_0_1_0.dae",
  "coordsystem":"left",
- "sphereFile":"D:\\DevApprentice\\autoPACK_data_google\\autoPACK_database_1.0.0\\collisionTrees\\MiinBloodPlasma_Albumin_1ao6_0_1_0.sph",
+ "sphereFile":"D:\\LabMembers\\Interns\\URAP\\Miin\\miin_database_1.0.0\\collisionTrees\\MiinBloodPlasma_Albumin_1ao6_0_1_0.sph",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
  "jitterMax":[
