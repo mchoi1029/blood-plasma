@@ -1,6 +1,6 @@
 {"recipe":{"version":"1.0","name":"MiinBloodPlasma"},
 "options":{"cancelDialog":false,"_hackFreepts":false,"windowsSize":1,"use_gradient":false,"placeMethod":"jitter",
-"saveResult":false,"runTimeDisplay":false,"overwritePlaceMethod":true,"innerGridMethod":"bhtree","boundingBox":[[-500,-500,-100],[500,500,100]],
+"saveResult":false,"runTimeDisplay":false,"overwritePlaceMethod":true,"innerGridMethod":"bhtree","boundingBox":[[-2000,-1000,-100],[2000,1000,100]],
 "gradients":[],"smallestProteinSize":25,"computeGridParams":true,"freePtsUpdateThrehod":0.15000001,"pickWeightedIngr":true,"_timer":false,
 "ingrLookForNeighbours":false,"pickRandPt":true,"largestProteinSize":725,"resultfile":"autoPACKserver/autoPACK_database_1.0.0/results/BloodPlasma1.2.apr",
 "use_periodicity":false,"EnviroOnly":false},
@@ -10,14 +10,44 @@
 	"MiinBloodPlasma_HSA_OleicAcid_1gni_0_1_0":
 	{"include":"MiinBloodPlasma_HSA_OleicAcid_1gni_0_1_0.json","name":"MiinBloodPlasma_HSA_OleicAcid_1gni_0_1_0"},
 
-	"MiinBloodPlasma_Albumin_1ao6_0_1_0":
-	{"include":"MiinBloodPlasma_Albumin_1ao6_0_1_0.json","name":"MiinBloodPlasma_Albumin_1ao6_0_1_0"},
+	"MiinBloodPlasma_Albumin_1e78_0_1_0":
+	{"include":"MiinBloodPlasma_Albumin_1e78_0_1_0.json","name":"MiinBloodPlasma_Albumin_1e78_0_1_0"},
 
 	"MiinBloodPlasma_HSA_PalmiticAcid_4bke_0_1_0":
 	{"include":"MiinBloodPlasma_HSA_PalmiticAcid_4bke_0_1_0.json","name":"MiinBloodPlasma_HSA_PalmiticAcid_4bke_0_1_0"},
 
 	"MiinBloodPlasma_HSA_LauricAcid_1e7f_0_1_0":
-	{"include":"MiinBloodPlasma_HSA_LauricAcid_1e7f_0_1_0.json","name":"MiinBloodPlasma_HSA_LauricAcid_1e7f_0_1_0"}
+	{"include":"MiinBloodPlasma_HSA_LauricAcid_1e7f_0_1_0.json","name":"MiinBloodPlasma_HSA_LauricAcid_1e7f_0_1_0"},
+
+	"MiinBloodPlasma_Transferrin_3qyt_0_1_0":
+	{"include":"MiinBloodPlasma_Transferrin_3qyt_0_1_0.json","name":"MiinBloodPlasma_Transferrin_3qyt_0_1_0"},
+
+	"MiinBloodPlasma_HSA_ArichidonicAcid_1gnj_0_1_0":
+	{"include":"MiinBloodPlasma_HSA_ArichidonicAcid_1gnj_0_1_0.json","name":"MiinBloodPlasma_HSA_ArichidonicAcid_1gnj_0_1_0"},
+
+	"MiinBloodPlasma_HSA_StearicAcid_1e7i_0_1_0":
+	{"include":"MiinBloodPlasma_HSA_StearicAcid_1e7i_0_1_0.json","name":"MiinBloodPlasma_HSA_StearicAcid_1e7i_0_1_0"},
+
+	"MiinBloodPlasma_C3_2a73_0_1_0":
+	{"include":"MiinBloodPlasma_C3_2a73_0_1_0.json","name":"MiinBloodPlasma_C3_2a73_0_1_0"},
+
+	"MiinBloodPlasma_IgG3_4hdi_0_1_0":
+	{"include":"MiinBloodPlasma_IgG3_4hdi_0_1_0.json","name":"MiinBloodPlasma_IgG3_4hdi_0_1_0"},
+
+	"MiinBloodPlasma_FactorB_2ok5_0_1_0":
+	{"include":"MiinBloodPlasma_FactorB_2ok5_0_1_0.json","name":"MiinBloodPlasma_FactorB_2ok5_0_1_0"},
+
+	"MiinBloodPlasma_Ceruloplasmin_4enz_0_1_0":
+	{"include":"MiinBloodPlasma_Ceruloplasmin_4enz_0_1_0.json","name":"MiinBloodPlasma_Ceruloplasmin_4enz_0_1_0"},
+
+	"MiinBloodPlasma_FactorC4A_4fxk_0_1_0":
+	{"include":"MiinBloodPlasma_FactorC4A_4fxk_0_1_0.json","name":"MiinBloodPlasma_FactorC4A_4fxk_0_1_0"},
+
+	"MiinBloodPlasma_FactorH_3gau_0_1_0":
+	{"include":"MiinBloodPlasma_FactorH_3gau_0_1_0.json","name":"MiinBloodPlasma_FactorH_3gau_0_1_0"}
+
+
+
 
 
 

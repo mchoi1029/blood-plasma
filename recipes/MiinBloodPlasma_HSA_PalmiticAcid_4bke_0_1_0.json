@@ -40,6 +40,6 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"1gni",
+ "pdb":"4bke",
  "useRotAxis":false
 }
